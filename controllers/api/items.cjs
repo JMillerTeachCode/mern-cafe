@@ -1,4 +1,4 @@
-const Item = require('../../models/Item.cjs');
+const Item = require('../../models/item.cjs');
 
 module.exports = {
   index,
